@@ -1,2 +1,2 @@
-eco "hello mouni"
-
+echo "hello mouni"
+echo "this is USA"
